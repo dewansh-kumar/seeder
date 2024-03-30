@@ -1,0 +1,113 @@
+{
+  "contracts": [
+    {
+      "id": 1,
+      "name": "Contract1",
+      "type": "Mounthly",
+      "status": "Available",
+      "perPayment": 89942,
+      "termLength": 1,
+      "paymentAmount": 82,
+      "totalFinanced": 1,
+      "totalAvailable": 30
+    },
+    {
+      "id": 2,
+      "name": "Contract2",
+      "type": "Mounthly",
+      "status": "Available",
+      "perPayment": 75468,
+      "termLength": 4,
+      "paymentAmount": 47,
+      "totalFinanced": 2,
+      "totalAvailable": 21
+    },
+    {
+      "id": 3,
+      "name": "Contract3",
+      "type": "Mounthly",
+      "status": "Available",
+      "perPayment": 30365,
+      "termLength": 1,
+      "paymentAmount": 72,
+      "totalFinanced": 3,
+      "totalAvailable": 72
+    },
+    {
+      "id": 4,
+      "name": "Contract4",
+      "type": "Mounthly",
+      "status": "Available",
+      "perPayment": 1733,
+      "termLength": 3,
+      "paymentAmount": 77,
+      "totalFinanced": 4,
+      "totalAvailable": 29
+    },
+    {
+      "id": 5,
+      "name": "Contract5",
+      "type": "Mounthly",
+      "perPayment": 51617,
+      "status": "Available",
+      "termLength": 8,
+      "paymentAmount": 61,
+      "totalFinanced": 5,
+      "totalAvailable": 29
+    }
+  ],
+  "payments": [
+    {
+      "id": "fa58d43b-90e5-4a4d-a131-20d8687582fb",
+      "dueDate": "6/28/2023, 1:52:52 PM",
+      "status": "Upcoming",
+      "expectedAmount": 0,
+      "outStanding": "2995.81"
+    },
+    {
+      "id": "9bd388d3-e4a6-4f64-848e-5e74f9d1019c",
+      "dueDate": "7/28/2023, 1:52:52 PM",
+      "status": "Upcoming",
+      "expectedAmount": 0,
+      "outStanding": "2995.81"
+    },
+    {
+      "id": "7bd60111-f1de-4a2e-bdb9-0eaa967e3981",
+      "dueDate": "8/27/2023, 1:52:52 PM",
+      "status": "Upcoming",
+      "expectedAmount": 0,
+      "outStanding": "2995.81"
+    },
+    {
+      "id": "b1d7e1fe-2a4e-42a4-8f00-f08aca9c295e",
+      "dueDate": "9/26/2023, 1:52:52 PM",
+      "status": "Upcoming",
+      "expectedAmount": 0,
+      "outStanding": "2995.81"
+    },
+    {
+      "id": "cd834e56-cfcc-4b68-927f-f6c3cbdf7abc",
+      "dueDate": "10/26/2023, 1:52:52 PM",
+      "status": "Upcoming",
+      "expectedAmount": 0,
+      "outStanding": "2995.81"
+    },
+    {
+      "id": "019418c5-2145-4a44-8f3d-f88cec15d5b1",
+      "dueDate": "11/25/2023, 1:52:52 PM",
+      "status": "Upcoming",
+      "expectedAmount": 0,
+      "outStanding": "2995.81"
+    }
+  ],
+  "cashkicks": [
+    {
+      "id": "386d86ec-8b4c-4bd1-85d3-29089fbffe35",
+      "name": "sdbfjsdjf",
+      "status": "Pending",
+      "maturity": "2024-05-18T19:55:57.723Z",
+      "totalFinanced": 32098,
+      "totalReceived": 3851760
+    }
+  ]
+}
